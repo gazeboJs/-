@@ -1,7 +1,8 @@
 <template>
-	<div>
-		测试
-	</div>
+	<span>
+		免密测试
+		哈哈
+	</span>
 </template>
 
 <script>
